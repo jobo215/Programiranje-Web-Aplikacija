@@ -1,0 +1,58 @@
+#register-card{
+    width: 50%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.form-input{
+    float: right;
+    margin-left: 10px;
+    width: 73%;
+}
+
+.button-holder{
+    text-align: center;
+}
+
+.table-width{
+    width: 70%!important;
+    position: absolute;
+    left: 14%;
+}
+
+.table-title{
+    position: absolute;
+    left: 50%;
+}
+
+#login-card{
+    width: 50%;
+    position: absolute;
+    top: 27%;
+    left: 25%;
+}
+
+#login-button{
+    width: 30%;
+}
+
+.form-bg{
+    background-color: #F5F5F5;
+}
+
+#input-poeni{
+    width: 40%;
+    margin-left: 25px;
+}
+
+#input-check{
+    margin-left: 57px;
+}
+
+#bodovi-card{
+    width: 40%;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
